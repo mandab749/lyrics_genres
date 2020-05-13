@@ -9,12 +9,12 @@
 
 ##### What is in each folder?
 
-- Data Prep:   
+- Data Prep (part 1):   
        - Cleaning the data and doing word tokenization   
        - lemmatizing the words   
        - saving it to a csv (saved csv is named lyrics_final).   
 - EDA: Exploratory Data Analysis to familiarize myself with the dataset.    
-- Predicting:
+- Predicting (Part 2):
        - splitting train & test data   
        - applying TFIDF vectorization to the lyrics   
        - predicting genres using Naive Bayes   
