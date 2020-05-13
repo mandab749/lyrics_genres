@@ -9,7 +9,7 @@
 
 ##### What is in each folder?
 
-- Data Prep (part 1):   
+- Data Prep (Part 1):   
        - Cleaning the data and doing word tokenization   
        - lemmatizing the words   
        - saving it to a csv (saved csv is named lyrics_final).   
