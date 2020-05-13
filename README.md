@@ -5,7 +5,8 @@
 - Columns: Name of Song, Year, Artist, Genre, and Full Lyrics of Song
 - 10 different Genres
 - Year range: 1960-2016
-- link to full data: https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics/data
+- link to full data: https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics/data  
+- link to powerpoint: https://docs.google.com/presentation/d/1EhT8-WtQ6U8qXPrslITmv8keqQyuBGkdhvhMWYL7kR4/edit?usp=sharing
 
 ##### What is in each folder?
 
