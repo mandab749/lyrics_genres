@@ -15,8 +15,8 @@
        - saving it to a csv (saved csv is named lyrics_final).   
 - EDA: Exploratory Data Analysis to familiarize myself with the dataset.    
 - Predicting:
-    - splitting train & test data   
-    - applying TFIDF vectorization to the lyrics   
-    - predicting genres using Naive Bayes   
-    - resulting confusion matrix of misclassifications   
-    - proving ideas for future analysis
+       - splitting train & test data   
+       - applying TFIDF vectorization to the lyrics   
+       - predicting genres using Naive Bayes   
+       - resulting confusion matrix of misclassifications   
+       - proving ideas for future analysis
