@@ -9,7 +9,10 @@
 
 ##### What is in each folder?
 
-- Data Prep: Cleaning the data and doing word tokenization, lemmatizing the words, and saving it to a csv (saved csv is named df2).
+- Data Prep: 
+       - Cleaning the data and doing word tokenization
+       - lemmatizing the words
+       - saving it to a csv (saved csv is named lyrics_final).
 - EDA: Exploratory Data Analysis to familiarize myself with the dataset. 
 - Predicting:
     - splitting train & test data   
